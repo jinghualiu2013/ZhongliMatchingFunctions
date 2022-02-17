@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "production-a9404",
+    "production": "production-a9404"
+  },
+  "targets": {}
+}
